@@ -1,61 +1,41 @@
 🧑‍💻 Portfólio Pessoal — João Pedro Coitinho Vahl
-Este é um projeto de portfólio pessoal desenvolvido como parte do meu aprendizado em desenvolvimento web no SENAI. Nele você encontrará informações sobre mim, minhas habilidades técnicas, soft skills e um formulário de contato funcional.
+Este repositório contém meu portfólio pessoal, desenvolvido como parte da minha jornada de aprendizado em desenvolvimento web pelo SENAI. Ele tem como objetivo apresentar quem sou, minhas habilidades técnicas, projetos e formas de contato.
 
-🚀 Tecnologias Utilizadas
+🌐 Tecnologias Utilizadas
 HTML5
 
 CSS3
 
-JavaScript (em breve mais recursos)
+Font Awesome (para ícones)
 
-EmailJS (para envio de e-mails sem backend)
+EmailJS (usado para o formulário de contato funcionar sem backend)
 
-Font Awesome (ícones)
+🎯 Funcionalidades do Portfólio
+✅ Página inicial com introdução e boas-vindas
 
-🎯 Funcionalidades
-✅ Layout responsivo com design moderno e limpo
+✅ Sessão “Quem Sou Eu?” com imagem e descrição pessoal
 
-✅ Sessões informativas sobre mim, minhas competências e contato
+✅ Seção “Sobre Mim” com lista de habilidades técnicas e soft skills
 
-✅ Formulário de contato funcional que envia dados diretamente para o e-mail informado no campo de e-mail (usando EmailJS)
+✅ Formulário de contato funcional com envio de mensagem por e-mail (via EmailJS)
 
-📬 Envio de Mensagem
-O formulário do site permite que qualquer pessoa envie uma mensagem, e essa mensagem será enviada automaticamente para o e-mail digitado no campo do formulário.
+✅ Design responsivo com efeitos de hover, sombras, gradientes e animações sutis
 
-📸 Imagens e Estilo
-Fundo com imagem do céu (ceu.jpg)
+✅ Links diretos para e-mail, Instagram e LinkedIn
 
-Uso de gradientes, sombras e efeitos de hover
-
-Personalização com text-shadow para melhor contraste e leitura
-
-📁 Estrutura de Arquivos
+📁 Estrutura do Projeto
 bash
 Copiar
 Editar
-/meu-portfolio/
-│
-├── index.html          # Página principal
-├── index2.css          # Estilo da página
-├── ceu.jpg             # Imagem de fundo (substituível)
-├── icone.png           # Ícone ilustrativo na seção "Quem sou eu"
-└── README.md           # Este arquivo
+/portifolio/
+├── index.html           # Página principal do portfólio
+├── index2.css           # Estilos personalizados
+├── ceu.jpg              # Imagem de fundo (céu)
+├── icone.png            # Ícone usado na seção "Quem sou eu"
+└── README.md            # Este arquivo
+📬 Contato
+Você pode entrar em contato comigo pelos canais abaixo, ou usando o formulário do próprio site:
 
-📧 Configuração do EmailJS (opcional para devs)
-Caso queira usar o formulário com seu próprio e-mail:
-
-Crie uma conta em https://emailjs.com
-
-Configure um serviço de e-mail e um template
-
-Copie o Service ID, Template ID e Public Key
-
-Edite o script JavaScript com seus dados
-
-👨‍🎓 Sobre Mim
-Sou João Pedro, estudante de desenvolvimento web no SENAI. Tenho interesse em front-end, design de interfaces e estou no início da minha jornada como programador.
-
-📱 Contato
 📧 Email: jpedrocoitinho@gmail.com
 
 📱 WhatsApp: (48) 99846-8696
@@ -64,6 +44,22 @@ Sou João Pedro, estudante de desenvolvimento web no SENAI. Tenho interesse em f
 
 💼 LinkedIn: Meu perfil
 
-📝 Licença
-Este projeto está licenciado para fins educacionais e demonstração. Fique à vontade para clonar e adaptar.
+👨‍🎓 Sobre Mim
+Sou o João Pedro Coitinho Vahl, estudante de desenvolvimento web pelo SENAI. Tenho mais afinidade com front-end e estou aprendendo os fundamentos de HTML, CSS, JavaScript, GitHub e design com Figma. Estou no início da minha trajetória, mas cheio de vontade de aprender!
 
+💡 Objetivo do Portfólio
+Apresentar quem eu sou profissionalmente
+
+Mostrar minhas habilidades e evolução
+
+Criar uma forma simples de me contatarem
+
+Ter um espaço bonito e funcional para mostrar o que sei
+
+📌 Observações
+O formulário de contato utiliza o serviço EmailJS para funcionar sem servidor.
+
+Algumas funcionalidades ainda estão em desenvolvimento, pois o projeto acompanha minha evolução como desenvolvedor.
+
+📝 Licença
+Este projeto é de uso pessoal e educacional. Sinta-se livre para explorar, estudar e se inspirar!
